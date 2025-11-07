@@ -1,0 +1,8 @@
+sources:
+  - name: s1
+    database: hdfc_db
+    schema: dev_schema
+    tables:
+      - name: customers
+      - name: orders
+      - name: payments
