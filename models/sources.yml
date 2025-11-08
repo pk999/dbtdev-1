@@ -10,3 +10,5 @@ sources:
       - name: t_customers
       - name: t_nations
       - name: t_discount
+      - name: t_audit
+      - name: s_emp
